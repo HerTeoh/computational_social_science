@@ -5,3 +5,4 @@ Snippets of code, mini-projects, and assignments from my Computational Social Sc
 ## files
 
 1. **pokemon webscraper vs api** - a brief comparison of two different methods of data scraping
+2. **Data Scraping Merriam Webster** - a convergence of Merriam Webster's API and the first five chapters of Pride and Prejudice by Jane Austen
